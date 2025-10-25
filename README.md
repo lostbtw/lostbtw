@@ -1,47 +1,83 @@
 ## Hello there 👋, I'm Aliaksandr but you can call me 'lost'
 
-🎓 I’m currently studying **Computer Science** at **Politechnika Łódzka** 
-💻 Passionate about software development, game scripting, and experimenting with new technologies
+🎓 I’m currently studying **Computer Science** at **Politechnika Łódzka**  
+💻 Passionate about software development, game scripting, and always open to learning something new  
 🎮 In my free time, I enjoy gaming, listening to music, and writing small mods or scripts for games  
 🍜 Also an anime connoisseur 😄
 
 
-### 🧰 Tech Stack
-#### 💬 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matlab](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+### 🧰 Tech Stack  
 
-#### 🧩 Frameworks & Tools
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 👁️‍🗨️ Languages   
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+  <br/>
+</p>
+
+#### 🌐 Frameworks & Web  
+
+<p align="left">
+  <!-- Frameworks & Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <br/>
+</p>  
+
+#### 🧩 IDEs & Tools  
+ 
+<p align="left">  
+   <!-- IDEs & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40" height="40" title="SQL Developer"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" width="40" height="40" title="Cisco Packet Tracer"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5768/5768781.png" width="40" height="40" title="AutoCAD"/>
+</p>
+
 
 ### 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
-[![Collabothon 2024 Badge](https://img.shields.io/badge/Odznaka%2B-Verified-blue?style=flat-square&logo=google-scholar)](https://odznakaplus.ibe.edu.pl/api/public/share/assertion/7ed222725cad97500c5be07de21fb57c3fb479905c0cac891a9c8e35ff163b63)  
-[![Cisco CCNA: Introduction to Networks Badge](https://img.shields.io/badge/Credly-Verified-orange?style=flat-square&logo=credly)](https://www.credly.com/badges/d4399c77-f2ba-4146-921e-2c857ae0f09a/public_url)
+
+<table>
+  <tr>
+    <td width="60" valign="middle">
+      <a href="https://odznakaplus.ibe.edu.pl/api/public/share/assertion/7ed222725cad97500c5be07de21fb57c0cac891a9c8e35ff163b63" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/744/744922.png" width="50" height="50" alt="Collabothon 2024 Badge"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://odznakaplus.ibe.edu.pl/api/public/share/assertion/7ed222725cad97500c5be07de21fb57c0cac891a9c8e35ff163b63" target="_blank">
+        <b>Collabothon 2024 Badge</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="60" valign="middle">
+      <a href="https://www.credly.com/badges/d4399c77-f2ba-4146-921e-2c857ae0f09a/public_url" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/744/744922.png" width="50" height="50" alt="Cisco CCNA Badge"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.credly.com/badges/d4399c77-f2ba-4146-921e-2c857ae0f09a/public_url" target="_blank">
+        <b>Cisco CCNA: Introduction to Networks Badge</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects or drop a message 😄*
 
-<!--
-**lostbtw/lostbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.flaticon.com/free-icons/website" title="website icons">Some icons created by Freepik - Flaticon</a>  
+<a href="https://www.flaticon.com/free-icons/autocad" title="autocad icons">Autocad icon created by Valueinvestor - Flaticon</a>  
+<a href="https://www.flaticon.com/free-icons/medal" title="medal icons">Medal icon created by Vectors Market - Flaticon</a>  
