@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Aliaksandr but you can call me 'lost'
+## Hello there 👋, My name is Aliaksandr but you can call me 'lost'
 
 🎓 I’m currently studying **Computer Science** at **Politechnika Łódzka**  
 💻 Passionate about software development, game scripting, and always open to learning something new  
